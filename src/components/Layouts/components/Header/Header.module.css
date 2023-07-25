@@ -1,0 +1,12 @@
+.wrapper {
+  width: 100%;
+  height: var(--default-layout-header-hight, 60px);
+  display: flex;
+  justify-content: center;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 1px;
+}
+
+.inner {
+  height: 100%;
+  width: var(--default-layout-width);
+}/*# sourceMappingURL=Header.module.css.map */
