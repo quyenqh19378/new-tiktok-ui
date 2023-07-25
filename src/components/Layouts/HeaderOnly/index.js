@@ -1,6 +1,6 @@
 //
 
-import Header from '~/components/Layout/components/Header';
+import Header from '~/components/Layouts/components/Header';
 import Search from '~/pages/Search';
 
 const HeaderOnly = () => {
